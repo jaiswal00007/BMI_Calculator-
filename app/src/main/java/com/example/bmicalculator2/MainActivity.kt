@@ -15,9 +15,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import java.util.Timer
-import java.util.TimerTask
-import kotlin.random.Random
+
 
 class MainActivity : AppCompatActivity() {
     @SuppressLint("SetTextI18n")
